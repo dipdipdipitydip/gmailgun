@@ -27,7 +27,7 @@ pip install time
 
 python3 gmailgun.py
 
-#######################
+✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️
 
 You need a Gmail app password to use this program
 the Gmail app password is a 16-digit passcode
