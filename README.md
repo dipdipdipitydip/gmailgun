@@ -5,13 +5,12 @@
 The Gmail Marketing Tool to Mail a List of Emails
 Using Gmail and Linux
 -------------------------------------------------
-You need a Gmail app password to use this program
-the Gmail app password is a 16-digit passcode
-Google "Gmail app password" for help
-getting you app password.
 
-The gmail app password would look like below
-zbdl jvfj mssj psfx
+Gmail marketing tool Instructions
+
+Email a list of contacts from xlsx file 
+with row Label EMAIL for emails
+and NAME for names
 
 Terminal Commands to install python3 
 pip dependencies
@@ -28,3 +27,13 @@ pip install time
 Enter the same folder that you have the files
 ########################
 python3 gmailgun.py
+
+#######################
+
+You need a Gmail app password to use this program
+the Gmail app password is a 16-digit passcode
+Google "Gmail app password" for help
+getting you app password.
+
+The gmail app password would look like:
+zbdl jvfj mssj psfx
