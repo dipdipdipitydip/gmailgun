@@ -25,8 +25,6 @@ pip install colored
 pip install os
 pip install time
 
-Enter the same folder that you have the files
-########################
 python3 gmailgun.py
 
 #######################
