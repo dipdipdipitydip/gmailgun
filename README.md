@@ -7,8 +7,9 @@ Using Gmail and Linux
 -------------------------------------------------
 
 Free Gmail email marketing tool
-Bulk Email Sender
+bulk email sender
 
+✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️
 Email a list of contacts from xlsx file 
 with row Label EMAIL for emails
 and NAME for names
