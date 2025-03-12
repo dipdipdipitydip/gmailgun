@@ -1,12 +1,13 @@
 # gmailgun
 # gmail
-# Email Marketing Tool
+# Free Email Marketing Tool
 
 The Gmail Marketing Tool to Mail a List of Emails
 Using Gmail and Linux
 -------------------------------------------------
 
-Gmail marketing tool Instructions
+Free Gmail email marketing tool
+Bulk Email Sender
 
 Email a list of contacts from xlsx file 
 with row Label EMAIL for emails
