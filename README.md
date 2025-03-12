@@ -27,6 +27,8 @@ pip install time
 
 python3 gmailgun.py
 
+Your accepted Email Message file formats 
+.txt | .html
 ✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️✉️
 
 You need a Gmail app password to use this program
