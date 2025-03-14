@@ -9,6 +9,9 @@ Using Gmail and Linux
 Free Gmail email marketing tool
 bulk email sender
 
+YouTube Video Guide
+https://www.youtube.com/watch?v=zc86keCt-aI
+
 Email a list of contacts from xlsx file 
 with row Label EMAIL for emails
 and NAME for names
