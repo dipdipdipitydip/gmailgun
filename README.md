@@ -1,5 +1,5 @@
 # gmailgun
-# gmail
+
 # Free Email Marketing Tool
 
 The Gmail Marketing Tool to Mail a List of Emails
@@ -39,3 +39,5 @@ getting you app password.
 
 The gmail app password would look like:
 zbdl jvfj mssj psfx
+
+# gmail
